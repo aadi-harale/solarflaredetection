@@ -1,0 +1,7 @@
+﻿*.csv
+*.pdf
+*.pptx
+*.log
+__pycache__/
+*.pyc
+data/
