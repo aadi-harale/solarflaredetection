@@ -1,6 +1,4 @@
-# SuryaAlert-X: Final Submission
-
-This is the consolidated final submission repository for **SuryaAlert-X**, built for the Bharatiya Antariksh Hackathon 2026 by **Team Temporal Nexus**.
+# SuryaAlert-X: 
 
 It integrates the "best approach" from our two parallel development tracks into a single unified repository:
 
